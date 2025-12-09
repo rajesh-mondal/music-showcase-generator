@@ -1,0 +1,37 @@
+{
+  "titles": [
+    "Schnelle Karotte Plus",
+    "Mitternachtsfahrt",
+    "Echos der Stille",
+    "Neon Herzschlag",
+    "Quantensprung",
+    "Der Vergessene Algorithmus",
+    "Bootstrap Blues",
+    "Rohe PHP Revolution"
+  ],
+  "artists_person": [
+    "Lena Müller",
+    "Klaus Schmidt",
+    "Anja Bauer",
+    "Timo Herbst",
+    "Sina Vogt",
+    "Max Richter"
+  ],
+  "artists_band": [
+    "Die Code Brecher",
+    "Bootstrap Jungs",
+    "Rohe PHP",
+    "Syntax Fehler",
+    "Die Lambda Funktionen",
+    "Mitternachts-Commit"
+  ],
+  "genres": ["Rock", "Pop", "Elektronisch", "Jazz", "Lo-Fi", "Hip-Hop"],
+  "reviews": [
+    "Ein moderner Klassiker, der das Genre neu definiert.",
+    "Visuell beeindruckend und akustisch immersiv.",
+    "Perfekt für eine späte Nachtfahrt, wirklich faszinierend.",
+    "Ein Meisterwerk aus Rhythmus und Code.",
+    "Einfach, aber zutiefst bewegend.",
+    "Ein unerwartetes Juwel des digitalen Klangs."
+  ]
+}

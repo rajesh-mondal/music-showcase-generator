@@ -1,0 +1,37 @@
+{
+  "titles": [
+    "Fast Carrot Plus",
+    "Midnight Drive",
+    "Echoes of Silence",
+    "Neon Heartbeat",
+    "Quantum Leap",
+    "The Forgotten Algorithm",
+    "Bootstrap Blues",
+    "Raw PHP Revolution"
+  ],
+  "artists_person": [
+    "Sarah K.",
+    "John Doe",
+    "Maya Li",
+    "Alex Stone",
+    "Elias Vance",
+    "Olivia Chen"
+  ],
+  "artists_band": [
+    "The Code Breakers",
+    "Bootstrap Boiz",
+    "Raw PHP",
+    "Syntax Error",
+    "The Lambda Functions",
+    "Midnight Commit"
+  ],
+  "genres": ["Rock", "Pop", "Electronic", "Jazz", "Lo-Fi", "Hip-Hop"],
+  "reviews": [
+    "A modern classic that redefines the genre.",
+    "Visually stunning and aurally immersive.",
+    "Perfect for a late-night drive, truly mesmerizing.",
+    "A masterpiece of rhythm and code.",
+    "Simple, yet profoundly moving.",
+    "An unexpected gem of digital sound."
+  ]
+}
