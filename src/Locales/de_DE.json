@@ -7,7 +7,14 @@
     "Quantensprung",
     "Der Vergessene Algorithmus",
     "Bootstrap Blues",
-    "Rohe PHP Revolution"
+    "Rohe PHP Revolution",
+    "Asynchroner Traum",
+    "Die Serverraum-Serenade",
+    "Firewall-Tanz",
+    "Rekursiver Rhythmus",
+    "Die Endlosschleife",
+    "Binärer Sonnenuntergang",
+    "Paketverlust-Panik"
   ],
   "artists_person": [
     "Lena Müller",
@@ -15,7 +22,12 @@
     "Anja Bauer",
     "Timo Herbst",
     "Sina Vogt",
-    "Max Richter"
+    "Max Richter",
+    "Juno Alpha",
+    "Caleb Byte",
+    "Zoe Hash",
+    "Leo Filter",
+    "Nina Query"
   ],
   "artists_band": [
     "Die Code Brecher",
@@ -23,9 +35,26 @@
     "Rohe PHP",
     "Syntax Fehler",
     "Die Lambda Funktionen",
-    "Mitternachts-Commit"
+    "Mitternachts-Commit",
+    "Die Datenströme",
+    "Thread-Sperre",
+    "Gleitkommazahl",
+    "Das Terminal",
+    "Fehler 503"
   ],
-  "genres": ["Rock", "Pop", "Elektronisch", "Jazz", "Lo-Fi", "Hip-Hop"],
+  "genres": [
+    "Rock",
+    "Pop",
+    "Elektronisch",
+    "Jazz",
+    "Lo-Fi",
+    "Hip-Hop",
+    "Synthwave",
+    "Vaporwave",
+    "Ambient",
+    "Dubstep",
+    "Progressive House"
+  ],
   "reviews": [
     "Ein moderner Klassiker, der das Genre neu definiert.",
     "Visuell beeindruckend und akustisch immersiv.",
@@ -33,5 +62,23 @@
     "Ein Meisterwerk aus Rhythmus und Code.",
     "Einfach, aber zutiefst bewegend.",
     "Ein unerwartetes Juwel des digitalen Klangs."
+  ],
+  "album_names": [
+    "Das Neon-Morgengrauen",
+    "Stille und Code",
+    "Der Zweite Commit",
+    "PHPs Größte Hits",
+    "Syntax-Symphonie",
+    "Das Fehlende Semikolon",
+    "Die Abstrakte Fabrik",
+    "Binäres Glück",
+    "Der Algorithmus der Liebe",
+    "Mitternachts-Refaktor",
+    "Lo-Fi Schleifenstapel",
+    "Dunkelmodus-Sitzungen",
+    "Quantensprünge",
+    "Cache-Gedächtnis-Träume",
+    "Das Endlose Scrollen",
+    "404: Nicht Gefunden, aber Gespürt"
   ]
 }

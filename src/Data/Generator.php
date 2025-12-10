@@ -151,11 +151,20 @@ class Generator {
 
     private function generateAlbum( string $seed, int $index ): string {
         $is_single = SeededRNG::getSeededInt( $seed, $index, 'album_type', 1, 4 ) === 1;
+
         if ( $is_single ) {
             return "Single";
         }
+
+        if ( isset( $this->data['album_names'] ) && !empty( $this->data['album_names'] ) ) {
+            $albums = $this->data['album_names'];
+            $rand_index = SeededRNG::getSeededInt( $seed, $index, 'album_name_pick', 0, count( $albums ) - 1 );
+
+            return $albums[$rand_index];
+        }
+
         $titles = $this->data['titles'];
-        $rand_index = SeededRNG::getSeededInt( $seed, $index, 'album_title', 0, count( $titles ) - 1 );
+        $rand_index = SeededRNG::getSeededInt( $seed, $index, 'album_title_fallback', 0, count( $titles ) - 1 );
         return "The " . $titles[$rand_index] . " Collection";
     }
 

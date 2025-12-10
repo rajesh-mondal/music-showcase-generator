@@ -7,7 +7,14 @@
     "Quantum Leap",
     "The Forgotten Algorithm",
     "Bootstrap Blues",
-    "Raw PHP Revolution"
+    "Raw PHP Revolution",
+    "Async Dream",
+    "The Server Room Serenade",
+    "Firewall Dance",
+    "Recursive Rhythm",
+    "The Infinite Loop",
+    "Binary Sunset",
+    "Packet Loss Panic"
   ],
   "artists_person": [
     "Sarah K.",
@@ -15,7 +22,12 @@
     "Maya Li",
     "Alex Stone",
     "Elias Vance",
-    "Olivia Chen"
+    "Olivia Chen",
+    "Juno Alpha",
+    "Caleb Byte",
+    "Zoe Hash",
+    "Leo Filter",
+    "Nina Query"
   ],
   "artists_band": [
     "The Code Breakers",
@@ -23,9 +35,26 @@
     "Raw PHP",
     "Syntax Error",
     "The Lambda Functions",
-    "Midnight Commit"
+    "Midnight Commit",
+    "The Data Streams",
+    "Thread Lock",
+    "Floating Point",
+    "The Terminal",
+    "Error 503"
   ],
-  "genres": ["Rock", "Pop", "Electronic", "Jazz", "Lo-Fi", "Hip-Hop"],
+  "genres": [
+    "Rock",
+    "Pop",
+    "Electronic",
+    "Jazz",
+    "Lo-Fi",
+    "Hip-Hop",
+    "Synthwave",
+    "Vaporwave",
+    "Ambient",
+    "Dubstep",
+    "Progressive House"
+  ],
   "reviews": [
     "A modern classic that redefines the genre.",
     "Visually stunning and aurally immersive.",
@@ -33,5 +62,23 @@
     "A masterpiece of rhythm and code.",
     "Simple, yet profoundly moving.",
     "An unexpected gem of digital sound."
+  ],
+  "album_names": [
+    "The Neon Dawn",
+    "Silence and Code",
+    "The Second Commit",
+    "PHP's Greatest Hits",
+    "Syntax Symphony",
+    "The Missing Semicolon",
+    "Abstract Factory",
+    "Binary Bliss",
+    "The Algorithm of Love",
+    "Midnight Refactor",
+    "Lo-Fi Loop Stack",
+    "Dark Mode Sessions",
+    "Quantum Jumps",
+    "Cache Memory Dreams",
+    "The Infinite Scroll",
+    "404: Not Found but Felt"
   ]
 }
