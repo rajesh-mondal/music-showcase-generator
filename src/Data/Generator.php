@@ -2,11 +2,9 @@
 
 namespace App\Data;
 
-use App\Database\LocalData;
 use App\Utils\SeededRNG;
 
 class Generator {
-    private LocalData $localData;
     private array $data;
     private string $locale;
 
